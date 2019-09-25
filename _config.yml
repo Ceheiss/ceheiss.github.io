@@ -28,31 +28,41 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-   linkedin: https://www.linkedin.com/in/ceheiss/
+  linkedin: https://www.linkedin.com/in/ceheiss/
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-   twitter: @Cristobalheiss
+  twitter: Cristobalheiss
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://codepen.io/ceheiss/
   # youtube: your_username
 
 topics:
+  - name: HTML5
+    web_url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5#targetText=HTML5%20is%20the%20latest%20evolution,powerful%20Web%20sites%20and%20applications.
+    image_url: http://www.webdevelopmenthelp.net/wp-content/uploads/2015/09/HTML55.png
+
   - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Javascript
+    web_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    image_url: https://miro.medium.com/max/3600/1*6ahbWjp_g9hqhaTDSJOL1Q.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: React
+    web_url: https://reactjs.org/
+    image_url: http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png
+
+
+
+  
