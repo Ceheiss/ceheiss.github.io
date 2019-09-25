@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -26,7 +26,10 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - test-repo
+     - hello-react-code
+     - colt-react-course
+     - todo-list-OC
 
 social_media:
   # behance: your_username
@@ -47,13 +50,6 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: HTML5
-    web_url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5#targetText=HTML5%20is%20the%20latest%20evolution,powerful%20Web%20sites%20and%20applications.
-    image_url: http://www.webdevelopmenthelp.net/wp-content/uploads/2015/09/HTML55.png
-
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Javascript
     web_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -62,6 +58,19 @@ topics:
   - name: React
     web_url: https://reactjs.org/
     image_url: http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png
+
+  - name: TDD
+    web_url: https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/
+
+  - name: HTML5
+    web_url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5#targetText=HTML5%20is%20the%20latest%20evolution,powerful%20Web%20sites%20and%20applications.
+    image_url: http://www.webdevelopmenthelp.net/wp-content/uploads/2015/09/HTML55.png
+
+  - name: CSS
+    web_url: https://github.com/topics/css
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+
+ 
 
 
 
